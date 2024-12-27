@@ -1,0 +1,19 @@
+.content {
+  margin-block: 32px;
+}
+
+.container {
+  max-width: 1024px;
+  padding: 0 40px;
+  margin-inline: auto;
+}
+
+@media (width < 769px) {
+  .content {
+    margin-block: 24px;
+  }
+
+  .container {
+    padding: 0 20px;
+  }
+}

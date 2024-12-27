@@ -1,0 +1,11 @@
+.postList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+@media (width < 769px) {
+  .postList {
+    gap: 16px;
+  }
+}

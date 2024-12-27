@@ -1,0 +1,45 @@
+.title {
+  margin-bottom: 8px;
+  color: #c7b8e1;
+  font-size: 30px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  line-height: 100%;
+}
+
+.text {
+  color: #b0b0be;
+  font-size: 24px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.postItem {
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #2a2a3e;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.2s ease;
+}
+
+.postItem:hover {
+  background-color: #383852;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+@media (width < 769px) {
+  .postItem {
+    padding: 16px;
+  }
+
+  .title {
+    font-size: 24px;
+  }
+
+  .text {
+    font-size: 20px;
+  }
+}
