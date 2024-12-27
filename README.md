@@ -1,6 +1,6 @@
 # Развернутое решение
 
-[https://uralsib-test-assignment.vercel.app]([http://localhost:3000](https://uralsib-test-assignment.vercel.app))
+[https://uralsib-test-assignment.vercel.app](https://uralsib-test-assignment.vercel.app)
 
 ## Available Scripts
 
