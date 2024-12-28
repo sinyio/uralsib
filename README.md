@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Развернутое решение
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[https://uralsib-test-assignment.vercel.app](https://uralsib-test-assignment.vercel.app)
 
 ## Available Scripts
 
