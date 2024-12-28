@@ -1,7 +1,7 @@
 import { Layout } from "layouts";
 import { type RouteObject } from "react-router-dom";
 
-export const nodeFoundRoute: RouteObject[] = [
+export const notFoundRoute: RouteObject[] = [
   {
     path: "*",
     element: (
